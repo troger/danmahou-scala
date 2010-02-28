@@ -1,3 +1,9 @@
 h1. About
 
-Scala port of Danmahou game
+Scala port of Danmahou game (http://git.arnk.fr/?p=danmahou.git;a=summary)
+
+h1. Dependencies
+
+* Slick
+* Scala 2.8.0.Beta1
+* sbt 0.7.1
