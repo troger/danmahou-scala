@@ -21,6 +21,6 @@ class DanmahouProject(info: ProjectInfo) extends DefaultProject(info) {
     </dependencies>
   val phys2d = "phys2d" % "phys2d" % phys2dVersion from ("http://b2s-repo.googlecode.com/svn/trunk/mvn-repo/phys2d/phys2d/060408/phys2d-" + phys2dVersion + ".jar")
 
-  val specs = "org.scala-tools.testing" % "specs" % specsVersion
+  val specs = "org.scala-tools.testing" % "specs_2.8.0.Beta1" % specsVersion
 
 }
